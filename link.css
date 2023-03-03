@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+    font-size: 1.5rem;
+}
+
+#fundo{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    border-radius: 2%;
+    align-items: center;
+    padding: 2rem 0rem 2rem 0rem;
+}
